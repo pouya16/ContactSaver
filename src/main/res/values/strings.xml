@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Contact Saver</string>
+    <string name="ask_contact">نیاز به مجوز ذخیره سازی مخاطبین وجود دارد</string>
+    <string name="ask_again">تلاش مجدد</string>
 </resources>
